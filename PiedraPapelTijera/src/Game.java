@@ -1,7 +1,7 @@
 /**
  * Clase principal.
- * VersiÃ³n 1.0
- * Autor: Profesor Entorno Desarrollo
+ * VersiÃ³n 2.0
+ * Autor: Javier Vicente Maciá
  */
 public class Game {
 
@@ -12,7 +12,7 @@ public class Game {
 	}
 
 	private void welcome() {
-		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras :-D");
+		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras Lagartija Spock Scissors :-D");
 	}
 
 	private void printHelp() {
